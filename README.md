@@ -3,7 +3,7 @@ Steganography is the technique of hiding secret data within an ordinary, non-sec
 
 ## How To Run :runner:
 
-:one: open terminal in `src` folder.
+:one: open terminal in `source` folder.
 
 :two: compile the program with this command:
 ``` sh
